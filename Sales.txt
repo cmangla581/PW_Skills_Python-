@@ -1,0 +1,2 @@
+Product : Laptop, Quantity : 5 Price : 75000
+Product : House, Quantity : 10, Price : 500

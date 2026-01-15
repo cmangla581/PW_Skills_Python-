@@ -1,0 +1,4 @@
+Employee details
+------------name : Alice, Age : 30, Salary : 50000
+name : Bob, Age : 20, Salary : 45000
+name : Charlie, Age : 35, Salary : 60000

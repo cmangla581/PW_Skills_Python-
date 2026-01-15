@@ -1,0 +1,4 @@
+Food 250
+Transport 120
+Rent 8000
+Electricity 450
